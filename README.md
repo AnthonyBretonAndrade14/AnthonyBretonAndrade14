@@ -4,8 +4,4 @@
 | 11:00 a 12:00  | Base de datos           | Base de datos           | Base de datos           | Base de datos           
 | 13:00 a 14:00  | Ingeniería de software  | Ingeniería de software  | Ingeniería de software  | Ingeniería de software  
 | 14:00 a 15:00  | Sistemas operativos     | Sistemas operativos     | Sistemas operativos     |                         
-| 15:00 a 16:00  | Lenguaje de Interfaz    | Lenguaje de Interfaz    | Lenguaje de Interfaz    |                         
-|                |                         |                         |                         |                        
-|                |                         |                         |                         |                         
-|                |                         |                         |                         |                         
-|                |                         |                         |                         |                          
+| 15:00 a 16:00  | Lenguaje de Interfaz    | Lenguaje de Interfaz    | Lenguaje de Interfaz    |                                              
